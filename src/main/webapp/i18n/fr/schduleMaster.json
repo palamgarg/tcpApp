@@ -1,0 +1,30 @@
+{
+  "cisApp": {
+    "schduleMaster": {
+      "home": {
+        "title": "SchduleMasters",
+        "refreshListLabel": "Actualiser la liste",
+        "createLabel": "Créer un nouveau Schdule Master",
+        "createOrEditLabel": "Créer ou éditer un Schdule Master",
+        "notFound": "Aucun Schdule Master trouvé"
+      },
+      "created": "Un nouveau Schdule Master a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Schdule Master avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Schdule Master avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Êtes-vous certain de vouloir supprimer le Schdule Master {{ id }} ?"
+      },
+      "detail": {
+        "title": "Schdule Master"
+      },
+      "id": "ID",
+      "installmentNumber": "Installment Number",
+      "reducingBalance": "Reducing Balance",
+      "principleAmount": "Principle Amount",
+      "interest": "Interest",
+      "totalInstallment": "Total Installment",
+      "dueDate": "Due Date",
+      "remarks": "Remarks"
+    }
+  }
+}

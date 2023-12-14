@@ -1,0 +1,40 @@
+{
+  "applications": ["cis"],
+  "changelogDate": "20231213060719",
+  "databaseType": "sql",
+  "entityTableName": "policy_master",
+  "fields": [
+    {
+      "fieldName": "purpuseName",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "policyName",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "chargesType",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "interestRate",
+      "fieldType": "Double"
+    },
+    {
+      "fieldName": "numberOfInstallments",
+      "fieldType": "Integer"
+    },
+    {
+      "fieldName": "penaltyRateOfInterest",
+      "fieldType": "Double"
+    },
+    {
+      "fieldName": "installmentDuration",
+      "fieldType": "Integer"
+    }
+  ],
+  "name": "PolicyMaster",
+  "relationships": [],
+  "searchEngine": "no",
+  "service": "serviceImpl"
+}

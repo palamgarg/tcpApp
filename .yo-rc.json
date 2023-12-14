@@ -1,0 +1,22 @@
+{
+  "generator-jhipster": {
+    "applicationIndex": 0,
+    "applicationType": "gateway",
+    "authenticationType": "jwt",
+    "baseName": "cis",
+    "clientFramework": "react",
+    "devServerPort": 9060,
+    "entities": ["Region", "PolicyMaster", "SchduleMaster", "Country", "Location", "Department", "Task", "Employee", "Job", "JobHistory"],
+    "jhipsterVersion": "8.0.0",
+    "jwtSecretKey": "OTk3YTY1ZGIzNDNiMGNhOTBmNzFkODJiY2VmYWM3ZjcwMTY3MDI2MjdlYzU2YTVkYThmMjRlY2FmMjA0ODZlMTVkMWNmYTVmM2EyZDk0YTg4M2IzNTY0OGZjYTNiYzYxOTFiOGQ5NTc1ZmU5MmE1MDgzMjNkMTNkMWRlZTgxYTY=",
+    "languages": ["en", "fr"],
+    "lastLiquibaseTimestamp": 1702448119000,
+    "monorepository": true,
+    "nativeLanguage": "en",
+    "packageFolder": "com/di/cis",
+    "packageName": "com.di.cis",
+    "prodDatabaseType": "postgresql",
+    "reactive": true,
+    "skipCommitHook": true
+  }
+}

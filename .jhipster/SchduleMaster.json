@@ -1,0 +1,40 @@
+{
+  "applications": ["cis"],
+  "changelogDate": "20231213060819",
+  "databaseType": "sql",
+  "entityTableName": "schdule_master",
+  "fields": [
+    {
+      "fieldName": "installmentNumber",
+      "fieldType": "Integer"
+    },
+    {
+      "fieldName": "reducingBalance",
+      "fieldType": "BigDecimal"
+    },
+    {
+      "fieldName": "principleAmount",
+      "fieldType": "BigDecimal"
+    },
+    {
+      "fieldName": "interest",
+      "fieldType": "BigDecimal"
+    },
+    {
+      "fieldName": "totalInstallment",
+      "fieldType": "BigDecimal"
+    },
+    {
+      "fieldName": "dueDate",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "remarks",
+      "fieldType": "String"
+    }
+  ],
+  "name": "SchduleMaster",
+  "relationships": [],
+  "searchEngine": "no",
+  "service": "serviceImpl"
+}

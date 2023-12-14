@@ -1,0 +1,30 @@
+{
+  "cisApp": {
+    "policyMaster": {
+      "home": {
+        "title": "PolicyMasters",
+        "refreshListLabel": "Actualiser la liste",
+        "createLabel": "Créer un nouveau Policy Master",
+        "createOrEditLabel": "Créer ou éditer un Policy Master",
+        "notFound": "Aucun Policy Master trouvé"
+      },
+      "created": "Un nouveau Policy Master a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Policy Master avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Policy Master avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Êtes-vous certain de vouloir supprimer le Policy Master {{ id }} ?"
+      },
+      "detail": {
+        "title": "Policy Master"
+      },
+      "id": "ID",
+      "purpuseName": "Purpuse Name",
+      "policyName": "Policy Name",
+      "chargesType": "Charges Type",
+      "interestRate": "Interest Rate",
+      "numberOfInstallments": "Number Of Installments",
+      "penaltyRateOfInterest": "Penalty Rate Of Interest",
+      "installmentDuration": "Installment Duration"
+    }
+  }
+}

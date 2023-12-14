@@ -1,0 +1,16 @@
+{
+  "applications": ["cis"],
+  "changelogDate": "20231213060619",
+  "databaseType": "sql",
+  "entityTableName": "region",
+  "fields": [
+    {
+      "fieldName": "regionName",
+      "fieldType": "String"
+    }
+  ],
+  "name": "Region",
+  "relationships": [],
+  "searchEngine": "no",
+  "service": "serviceImpl"
+}
